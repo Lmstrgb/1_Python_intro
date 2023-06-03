@@ -22,4 +22,4 @@ def power(a, b): # это из чат GPT пока вообще не пойму 
         return a * temp * temp
 
 
-print(power(2,3))
+print(degree(2,3))
